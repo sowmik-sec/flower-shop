@@ -113,3 +113,18 @@ header {
   width: 318px;
   height: 420px;
 }
+.ig-text {
+  width: 594px;
+  margin: 0 auto;
+  margin-bottom: 48px;
+}
+.social-img {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+  margin: 0 auto 128px;
+}
+.social-img > div > img {
+  width: 342px;
+  height: 396px;
+}
