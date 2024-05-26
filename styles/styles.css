@@ -151,3 +151,23 @@ header {
   width: 95%;
   margin-right: 16px;
 }
+footer {
+  background-color: rgb(17, 16, 16);
+  padding: 128px 0;
+}
+.footer-section {
+  width: 625px;
+  margin: 0 auto;
+}
+.flower {
+  color: rgb(229, 84, 115);
+}
+.shop {
+  color: white;
+}
+.text-white {
+  color: white;
+}
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
+}
