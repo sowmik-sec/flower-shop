@@ -128,3 +128,26 @@ header {
   width: 342px;
   height: 396px;
 }
+.latest-deal-section {
+  background-image: url("../images/Rectangle\ 9.png");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1440px;
+  height: 449px;
+  margin: 0 auto 148px;
+}
+.latest-deal {
+  width: 866px;
+}
+.subscribe {
+  display: flex;
+  justify-content: space-between;
+}
+.subscribe > input {
+  padding: 22px;
+  border: 0;
+  border-radius: 8px;
+  width: 95%;
+  margin-right: 16px;
+}
